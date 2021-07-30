@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naga1090
 - 👀 I’m interested in the intersection between Medicine and Computer Science
-- 📫 Recent UVA graduate with double major in Biology and CS
+- 📫 UVA graduate (Go Hoos!)
 
 <!---
 naga1090/naga1090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
