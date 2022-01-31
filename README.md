@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naga1090
-- 👀 I’m interested in the intersection between Medicine and Computer Science
+- 👀 I'm interested in learning about new and emerging technologies
 - 📫 UVA graduate (Go Hoos!)
 
 <!---
